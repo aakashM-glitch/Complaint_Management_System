@@ -1,0 +1,4 @@
+/* Main App styles are handled by index.css and component-specific stylesheets. */
+.app {
+  min-height: 100vh;
+}
